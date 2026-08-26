@@ -1,0 +1,6 @@
+{
+  "name": "Matematik Adası",
+  "description": "Matematik Adası - Toplama, Çıkarma, Çarpma ve Bölme işlemlerini eğlenceli ada maceralarıyla öğreten eğitici çocuk oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

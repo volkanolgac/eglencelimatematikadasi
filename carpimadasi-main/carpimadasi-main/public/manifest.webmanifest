@@ -1,0 +1,26 @@
+{
+  "name": "Çarpım Adası",
+  "short_name": "Çarpım Adası",
+  "description": "Çarpım tablosunu oyun oynarken öğren!",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#7dd3fc",
+  "theme_color": "#7dd3fc",
+  "categories": ["education", "games", "kids"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
